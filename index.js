@@ -1,7 +1,7 @@
-const Logz = require("./lib/logz/Logz");
-const Cryptz = require("./lib/cryptz/Cryptz");
+import Logz from "./lib/logz/Logz";
+import Cryptz from "./lib/cryptz/Cryptz";
 
-module.exports = {
+export default {
   Logz,
   Cryptz,
 };
