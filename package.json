@@ -1,0 +1,27 @@
+{
+  "name": "wizelib",
+  "version": "1.0.0",
+  "description": "Libraries for node project that usually i need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildanMZaki/wizelib.git"
+  },
+  "keywords": [
+    "lib",
+    "libraries",
+    "node"
+  ],
+  "author": "Wildan M Zaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WildanMZaki/wizelib/issues"
+  },
+  "homepage": "https://github.com/WildanMZaki/wizelib#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
