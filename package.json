@@ -3,7 +3,6 @@
   "version": "1.0.8",
   "description": "Libraries for node project that usually i need",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +22,7 @@
   },
   "homepage": "https://github.com/WildanMZaki/wizelib#readme",
   "dependencies": {
-    "chalk": "^5.3.0"
+    "@ptkdev/logger": "^1.8.0",
+    "chalk": "^4.1.2"
   }
 }
