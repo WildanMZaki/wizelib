@@ -1,6 +1,6 @@
 {
   "name": "wizelib",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Libraries for node project that usually i need",
   "main": "index.js",
   "scripts": {

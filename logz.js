@@ -21,4 +21,11 @@ logz
   })
   .record();
 
+logz.print({
+  abc: "string",
+  iamnull: null,
+  iu: undefined,
+});
+logz.print("something").record();
+
 logz.now();
