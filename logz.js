@@ -28,4 +28,19 @@ logz.print({
 });
 logz.print("something").record();
 
+logz.table({
+  abc: "string",
+  iamnull: null,
+  iu: undefined,
+});
+logz
+  .table({
+    abc: "string",
+    iamnull: null,
+    iu: undefined,
+  })
+  .record();
+
 logz.now();
+
+logz.setType("test").setMessage("This is message").record();
