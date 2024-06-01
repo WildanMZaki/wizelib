@@ -17,7 +17,7 @@ npm install wizelib
 ### Basic Setup
 
 ```javascript
-const Logz = require("wizelib");
+const { Logz } = require("wizelib");
 
 const logz = new Logz();
 ```
