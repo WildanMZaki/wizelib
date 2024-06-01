@@ -98,14 +98,13 @@ logz.label("User Data").json({ name: "John Doe", age: 30 });
 logz.print("This is a simple string").record();
 // Outputs: This is a simple string
 // Appends the log to the file
-```
 
 logz.json(objectData);
 // Outputs: stringified dataObject to json format
 
 // You can store this json to file to just by adding:
 .record()
-
+```
 
 ### Logging to a File
 
