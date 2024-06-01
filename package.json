@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/WildanMZaki/wizelib#readme",
   "dependencies": {
-    "@ptkdev/logger": "^1.8.0",
     "chalk": "^4.1.2"
   }
 }
