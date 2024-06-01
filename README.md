@@ -2,8 +2,6 @@
 
 Libraries for all utilites in node project that usually i need
 
-Sure, I'll update the README to reflect the correct output format.
-
 # Logz
 
 A flexible logging utility for Node.js applications that supports various log levels and custom logging functions.
