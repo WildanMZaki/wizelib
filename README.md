@@ -102,7 +102,7 @@ logz.print("This is a simple string").record();
 logz.json(objectData);
 // Outputs: stringified dataObject to json format
 
-// You can store this json to file to just by adding:
+// You can store this stringified json to file too just by adding:
 .record()
 ```
 
