@@ -1,6 +1,6 @@
 {
   "name": "wizelib",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Libraries for node project that usually i need",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "lib",
     "libraries",
-    "node"
+    "node", "logger", "log", "logging"
   ],
   "author": "Wildan M Zaki",
   "license": "MIT",
